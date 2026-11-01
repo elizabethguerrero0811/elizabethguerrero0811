@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Elizabeth 👋
 
-<!--
-**elizabethguerrero0811/elizabethguerrero0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Scrum Master at Star Enterprise Solutions, currently working with Claro USA.
+I'm passionate about Agile, project management, and building tools that help people learn.
 
-Here are some ideas to get you started:
+### 🌱 What I'm working on
+- **Mi Biblioteca Visual**: a personal media library web app
+- **Idiomanía**: a language-learning web app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Background
+- Scrum Foundation Professional Certification (SFPC™), CertiProf
+- B.A. in Modern Languages (English), UASD, in progress
+- French & English teacher
+
+### 🌎 Languages
+Spanish (native) · English (advanced) · French (intermediate)
+
+📫 [LinkedIn](https://www.linkedin.com/in/elizabeth-guerrero-)
