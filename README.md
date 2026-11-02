@@ -1,11 +1,7 @@
 # Hi, I'm Elizabeth 👋
 
-Scrum Master at Star Enterprise Solutions, currently working with Claro USA.
+Scrum Master at Star Enterprise Solutions.
 I'm passionate about Agile, project management, and building tools that help people learn.
-
-### 🌱 What I'm working on
-- **Mi Biblioteca Visual**: a personal media library web app
-- **Idiomanía**: a language-learning web app
 
 ### 🧰 Background
 - Scrum Foundation Professional Certification (SFPC™), CertiProf
